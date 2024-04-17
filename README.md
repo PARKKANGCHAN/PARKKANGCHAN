@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WELCOME😊&animation=fadeIn&fontSize=70&desc=KANGCHAN_GitHub&descAlign=53&descAlignY=54&fontAlignY=40)
 
+
+<!--여기는 개인 GitHub평판 (평판 좋아지면 주석 해제하기)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKKANGCHAN)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <!--
 **PARKKANGCHAN/PARKKANGCHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
