@@ -11,7 +11,7 @@ KANGCHAN {
     name : '박현우',
     email  : 'phw2086@naver.com',
     hobby[] : ['산책 하기','영상 시청','수다 떨기'],
-    unusual career : '간호사',
+    unusual_career : '간호사',
     MBTI : 'ESFJ'
 }
 ```
